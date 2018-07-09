@@ -1,0 +1,26 @@
+{
+  "name": "zhto123",
+  "version": "1.0.0",
+  "description": "汉字转阿拉伯数字",
+  "main": "test.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzx1996/zhTo123.git"
+  },
+  "keywords": [
+    "汉字，阿拉伯数字"
+  ],
+  "author": "norman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzx1996/zhTo123/issues"
+  },
+  "homepage": "https://github.com/gzx1996/zhTo123#readme"
+}
